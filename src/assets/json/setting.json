@@ -1,0 +1,52 @@
+{
+      "sound": {
+            "common": {
+                  "explosion": { "type": "sound", "root": "sound", "path": "common", "file": "explosion" },
+                  "sfx_here_we_go": { "type": "sound", "root": "sound", "path": "common", "file": "sfx_here_we_go" },
+                  "ms_character_select": { "type": "sound", "root": "sound", "path": "common", "file": "ms_character_select" },
+                  "mission_1_start": {"type": "sound", "root":  "sound", "path": "common", "file":  "mission_1_start"},
+                  "ms_stage_clear": { "type": "sound", "root": "sound", "path": "common", "file": "ms_stage_clear" }
+            },
+            "weapon": {
+                  "gun_reload":{ "type": "sound", "root": "sound", "path": "weapon", "file": "gun_reload" },
+                  "gun_shoot":{ "type": "sound", "root": "sound", "path": "weapon", "file": "gun_shoot" }
+            },
+            "feature": {}
+      },
+      "images": {
+            "common": {
+                  "num": { "type": "bitmap", "path": "font", "file": "num", "ext": "png" },
+                  "bullet": { "type": "image", "path": "main", "file": "bullet", "ext": "png" },
+                  "buttonAtlas": { "type": "atlas", "path": "symbol/clip", "file": "buttonAtlas", "ext": "png" },
+                  "explode_ground": { "type": "mAtlas", "path": "explode_ground/clip", "file": "explode_ground" },
+                  "flying_tara": { "type": "mAtlas", "path": "flying_tara/clip", "file": "flying_tara" },
+                  "missile_down": { "type": "mAtlas", "path": "missile_down/clip", "file": "missile_down" },
+                  "marco": { "type": "atlas", "path": "main/clip", "file": "marco", "ext": "png" },
+                  "marco_blue": { "type": "atlas", "path": "main/clip", "file": "marco_blue", "ext": "png" },
+                  "img_ground_bg": { "type": "image", "path": "main", "file": "img_ground_bg", "ext": "jpg" },
+                  "img_sky_bg": { "type": "image", "path": "main", "file": "img_sky_bg", "ext": "jpg" },
+                  "spineboy": { "type": "spine", "path": "spine", "file": "spineboy", "nt": "spine4" },
+                  "clip_coin_1": { "type": "image", "path": "symbol/clip/clip_coin", "file": "clip_coin_1", "ext": "png" },
+                  "clip_coin_2": { "type": "image", "path": "symbol/clip/clip_coin", "file": "clip_coin_2", "ext": "png" },
+                  "clip_coin_3": { "type": "image", "path": "symbol/clip/clip_coin", "file": "clip_coin_3", "ext": "png" },
+                  "clip_coin_4": { "type": "image", "path": "symbol/clip/clip_coin", "file": "clip_coin_4", "ext": "png" },
+                  "clip_coin_5": { "type": "image", "path": "symbol/clip/clip_coin", "file": "clip_coin_5", "ext": "png" },
+                  "clip_coin_6": { "type": "image", "path": "symbol/clip/clip_coin", "file": "clip_coin_6", "ext": "png" },
+                  "clip_explosion_1": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_1", "ext": "png" },
+                  "clip_explosion_10": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_10", "ext": "png" },
+                  "clip_explosion_2": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_2", "ext": "png" },
+                  "clip_explosion_3": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_3", "ext": "png" },
+                  "clip_explosion_4": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_4", "ext": "png" },
+                  "clip_explosion_5": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_5", "ext": "png" },
+                  "clip_explosion_6": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_6", "ext": "png" },
+                  "clip_explosion_7": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_7", "ext": "png" },
+                  "clip_explosion_8": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_8", "ext": "png" },
+                  "clip_explosion_9": { "type": "image", "path": "symbol/clip/clip_explosion", "file": "clip_explosion_9", "ext": "png" },
+                  "img_symbol_H1": { "type": "image", "path": "symbol", "file": "img_symbol_H1", "ext": "png" },
+                  "img_symbol_H2": { "type": "image", "path": "symbol", "file": "img_symbol_H2", "ext": "png" },
+                  "img_symbol_H3": { "type": "image", "path": "symbol", "file": "img_symbol_H3", "ext": "png" },
+                  "img_symbol_N6": { "type": "image", "path": "symbol", "file": "img_symbol_N6", "ext": "png" }
+            },
+            "feature": {}
+      }
+}

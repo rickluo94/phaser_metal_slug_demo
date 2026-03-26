@@ -1,0 +1,856 @@
+{
+    "frames": {
+        "metal_slug_man_1.png": {
+            "frame": {
+                "x": 1097,
+                "y": 905,
+                "w": 190,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 15,
+                "y": 0,
+                "w": 190,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_10.png": {
+            "frame": {
+                "x": 1298,
+                "y": 219,
+                "w": 174,
+                "h": 220
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14,
+                "w": 174,
+                "h": 220
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_11.png": {
+            "frame": {
+                "x": 1126,
+                "y": 219,
+                "w": 170,
+                "h": 220
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 14,
+                "w": 170,
+                "h": 220
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_12.png": {
+            "frame": {
+                "x": 1474,
+                "y": 219,
+                "w": 172,
+                "h": 220
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 14,
+                "w": 172,
+                "h": 220
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_13.png": {
+            "frame": {
+                "x": 968,
+                "y": 669,
+                "w": 292,
+                "h": 228
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 11,
+                "w": 292,
+                "h": 228
+            },
+            "sourceSize": {
+                "w": 302,
+                "h": 240
+            }
+        },
+        "metal_slug_man_14.png": {
+            "frame": {
+                "x": 620,
+                "y": 219,
+                "w": 292,
+                "h": 216
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 17,
+                "w": 292,
+                "h": 216
+            },
+            "sourceSize": {
+                "w": 302,
+                "h": 240
+            }
+        },
+        "metal_slug_man_15.png": {
+            "frame": {
+                "x": 1623,
+                "y": 2,
+                "w": 214,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 19,
+                "w": 214,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_16.png": {
+            "frame": {
+                "x": 242,
+                "y": 441,
+                "w": 212,
+                "h": 221
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 13,
+                "w": 212,
+                "h": 221
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_17.png": {
+            "frame": {
+                "x": 456,
+                "y": 441,
+                "w": 187,
+                "h": 221
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 13,
+                "w": 187,
+                "h": 221
+            },
+            "sourceSize": {
+                "w": 223,
+                "h": 239
+            }
+        },
+        "metal_slug_man_18.png": {
+            "frame": {
+                "x": 993,
+                "y": 2,
+                "w": 192,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 19,
+                "w": 192,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_19.png": {
+            "frame": {
+                "x": 1276,
+                "y": 441,
+                "w": 204,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 9,
+                "w": 204,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_2.png": {
+            "frame": {
+                "x": 931,
+                "y": 905,
+                "w": 164,
+                "h": 236
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 30,
+                "y": 0,
+                "w": 164,
+                "h": 236
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_20.png": {
+            "frame": {
+                "x": 1187,
+                "y": 2,
+                "w": 216,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 19,
+                "w": 216,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_21.png": {
+            "frame": {
+                "x": 1405,
+                "y": 2,
+                "w": 216,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 19,
+                "w": 216,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_22.png": {
+            "frame": {
+                "x": 208,
+                "y": 219,
+                "w": 206,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 19,
+                "w": 206,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_23.png": {
+            "frame": {
+                "x": 2,
+                "y": 2,
+                "w": 209,
+                "h": 211
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 23,
+                "w": 209,
+                "h": 211
+            },
+            "sourceSize": {
+                "w": 223,
+                "h": 239
+            }
+        },
+        "metal_slug_man_24.png": {
+            "frame": {
+                "x": 425,
+                "y": 2,
+                "w": 214,
+                "h": 213
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 22,
+                "w": 214,
+                "h": 213
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_25.png": {
+            "frame": {
+                "x": 213,
+                "y": 2,
+                "w": 210,
+                "h": 211
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 23,
+                "w": 210,
+                "h": 211
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_26.png": {
+            "frame": {
+                "x": 2,
+                "y": 219,
+                "w": 204,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 21,
+                "w": 204,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 239
+            }
+        },
+        "metal_slug_man_27.png": {
+            "frame": {
+                "x": 416,
+                "y": 219,
+                "w": 202,
+                "h": 216
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 18,
+                "w": 202,
+                "h": 216
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_28.png": {
+            "frame": {
+                "x": 438,
+                "y": 669,
+                "w": 230,
+                "h": 226
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 14,
+                "w": 230,
+                "h": 226
+            },
+            "sourceSize": {
+                "w": 230,
+                "h": 240
+            }
+        },
+        "metal_slug_man_29.png": {
+            "frame": {
+                "x": 670,
+                "y": 669,
+                "w": 296,
+                "h": 228
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 12,
+                "w": 296,
+                "h": 228
+            },
+            "sourceSize": {
+                "w": 302,
+                "h": 240
+            }
+        },
+        "metal_slug_man_3.png": {
+            "frame": {
+                "x": 1289,
+                "y": 905,
+                "w": 189,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 18,
+                "y": 0,
+                "w": 189,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 223,
+                "h": 240
+            }
+        },
+        "metal_slug_man_30.png": {
+            "frame": {
+                "x": 1044,
+                "y": 441,
+                "w": 230,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 16,
+                "w": 230,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 302,
+                "h": 240
+            }
+        },
+        "metal_slug_man_31.png": {
+            "frame": {
+                "x": 645,
+                "y": 441,
+                "w": 226,
+                "h": 221
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 13,
+                "w": 226,
+                "h": 221
+            },
+            "sourceSize": {
+                "w": 302,
+                "h": 239
+            }
+        },
+        "metal_slug_man_32.png": {
+            "frame": {
+                "x": 2,
+                "y": 441,
+                "w": 238,
+                "h": 221
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 14,
+                "w": 238,
+                "h": 221
+            },
+            "sourceSize": {
+                "w": 302,
+                "h": 239
+            }
+        },
+        "metal_slug_man_33.png": {
+            "frame": {
+                "x": 873,
+                "y": 441,
+                "w": 169,
+                "h": 222
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 10,
+                "w": 169,
+                "h": 222
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 240
+            }
+        },
+        "metal_slug_man_34.png": {
+            "frame": {
+                "x": 1262,
+                "y": 669,
+                "w": 216,
+                "h": 228
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 12,
+                "w": 216,
+                "h": 228
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_35.png": {
+            "frame": {
+                "x": 214,
+                "y": 669,
+                "w": 222,
+                "h": 226
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 14,
+                "w": 222,
+                "h": 226
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_36.png": {
+            "frame": {
+                "x": 2,
+                "y": 669,
+                "w": 210,
+                "h": 226
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 14,
+                "w": 210,
+                "h": 226
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_37.png": {
+            "frame": {
+                "x": 1482,
+                "y": 441,
+                "w": 196,
+                "h": 226
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 7,
+                "w": 196,
+                "h": 226
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_38.png": {
+            "frame": {
+                "x": 741,
+                "y": 905,
+                "w": 188,
+                "h": 236
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 0,
+                "w": 188,
+                "h": 236
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_39.png": {
+            "frame": {
+                "x": 1674,
+                "y": 905,
+                "w": 181,
+                "h": 269
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 0,
+                "w": 181,
+                "h": 269
+            },
+            "sourceSize": {
+                "w": 223,
+                "h": 271
+            }
+        },
+        "metal_slug_man_4.png": {
+            "frame": {
+                "x": 553,
+                "y": 905,
+                "w": 186,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 17,
+                "y": 0,
+                "w": 186,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_40.png": {
+            "frame": {
+                "x": 1480,
+                "y": 905,
+                "w": 192,
+                "h": 257
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 14,
+                "y": 0,
+                "w": 192,
+                "h": 257
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 271
+            }
+        },
+        "metal_slug_man_41.png": {
+            "frame": {
+                "x": 825,
+                "y": 2,
+                "w": 166,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 21,
+                "w": 166,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_42.png": {
+            "frame": {
+                "x": 641,
+                "y": 2,
+                "w": 182,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 21,
+                "w": 182,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_5.png": {
+            "frame": {
+                "x": 209,
+                "y": 905,
+                "w": 160,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 28,
+                "y": 0,
+                "w": 160,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_6.png": {
+            "frame": {
+                "x": 1480,
+                "y": 669,
+                "w": 170,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 0,
+                "w": 170,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_7.png": {
+            "frame": {
+                "x": 2,
+                "y": 905,
+                "w": 205,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 16,
+                "y": 0,
+                "w": 205,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 223,
+                "h": 240
+            }
+        },
+        "metal_slug_man_8.png": {
+            "frame": {
+                "x": 914,
+                "y": 219,
+                "w": 210,
+                "h": 218
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 0,
+                "w": 210,
+                "h": 218
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        },
+        "metal_slug_man_9.png": {
+            "frame": {
+                "x": 371,
+                "y": 905,
+                "w": 180,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 31,
+                "y": 0,
+                "w": 180,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 222,
+                "h": 240
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker ",
+        "version": "1.0",
+        "image": "marco_blue.png",
+        "format": "RGBA4444",
+        "size": {
+            "w": 1857,
+            "h": 1179
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:24ada14009480f368b4aad81c8e0aff9:1/1$"
+    }
+}

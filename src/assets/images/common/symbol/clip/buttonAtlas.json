@@ -1,0 +1,54 @@
+{
+  "frames": {
+    "clip_coin_1.png": {
+      "frame": { "x": 0, "y": 0, "w": 105, "h": 105 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 105, "h": 105 },
+      "sourceSize": { "w": 105, "h": 105 }
+    },
+    "clip_coin_2.png": {
+      "frame": { "x": 105, "y": 0, "w": 105, "h": 105 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 105, "h": 105 },
+      "sourceSize": { "w": 105, "h": 105 }
+    },
+    "clip_coin_3.png": {
+      "frame": { "x": 210, "y": 0, "w": 105, "h": 105 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 105, "h": 105 },
+      "sourceSize": { "w": 105, "h": 105 }
+    },
+    "clip_coin_4.png": {
+      "frame": { "x": 315, "y": 0, "w": 105, "h": 105 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 105, "h": 105 },
+      "sourceSize": { "w": 105, "h": 105 }
+    },
+    "clip_coin_5.png": {
+      "frame": { "x": 420, "y": 0, "w": 105, "h": 105 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 105, "h": 105 },
+      "sourceSize": { "w": 105, "h": 105 }
+    },
+    "clip_coin_6.png": {
+      "frame": { "x": 525, "y": 0, "w": 105, "h": 105 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 105, "h": 105 },
+      "sourceSize": { "w": 105, "h": 105 }
+    }
+  },
+  "meta": {
+    "app": "Codex",
+    "version": "1.0",
+    "image": "buttonAtlas.png",
+    "format": "RGBA8888",
+    "size": { "w": 630, "h": 105 },
+    "scale": "1"
+  }
+}

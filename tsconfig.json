@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "baseUrl": ".",
+        "paths": {
+            "@protocol/*": ["src/sdk/protocol/*"],
+            "@kernel/*": ["src/sdk/kernel/*"],
+            "@share/*": ["src/sdk/share/*"],
+            "@script/*": ["src/js/script/*"],
+            "@/*": ["src/*"]
+        },
+        "allowJs": true,
+        "checkJs": false,
+        "strict": false,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "resolveJsonModule": true
+    },
+    "include": [
+        "src/**/*",
+        "webpack/**/*",
+        "GameConfig.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "build",
+        "src/external/photon-javascript-sdk/src/**/*"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target":"ES6",
+        "baseUrl": ".",
+        "paths": {
+            "@protocol/*": ["src/sdk/protocol/*"],
+            "@kernel/*": ["src/sdk/kernel/*"],
+            "@share/*": ["src/sdk/share/*"],
+            "@script/*": ["src/js/script/*"],
+            "@/*": ["src/*"]
+        }
+    },
+    "include": [
+        "**/*"
+    ]
+}
